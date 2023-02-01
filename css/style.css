@@ -15,3 +15,9 @@ a:hover {
 a:active {
     color:cyan;
 }
+main>article {
+    display:inline;
+}
+section {
+    display: flex;
+}
