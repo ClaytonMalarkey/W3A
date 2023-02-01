@@ -1,0 +1,17 @@
+article p {
+    background-color: black;
+    color: yellow;
+}
+article>img {
+    height:300px;
+}
+article+h1 {
+    color:black;
+    background-color: yellow;
+}
+a:hover {
+    background-color: cyan;
+}
+a:active {
+    color:cyan;
+}
